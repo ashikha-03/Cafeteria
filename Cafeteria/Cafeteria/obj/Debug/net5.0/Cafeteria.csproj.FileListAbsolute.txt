@@ -1,0 +1,16 @@
+C:\Users\AshikhaMylsamy\source\repos\Cafeteria\Cafeteria\bin\Debug\net5.0\Cafeteria.exe
+C:\Users\AshikhaMylsamy\source\repos\Cafeteria\Cafeteria\bin\Debug\net5.0\Cafeteria.deps.json
+C:\Users\AshikhaMylsamy\source\repos\Cafeteria\Cafeteria\bin\Debug\net5.0\Cafeteria.runtimeconfig.json
+C:\Users\AshikhaMylsamy\source\repos\Cafeteria\Cafeteria\bin\Debug\net5.0\Cafeteria.runtimeconfig.dev.json
+C:\Users\AshikhaMylsamy\source\repos\Cafeteria\Cafeteria\bin\Debug\net5.0\Cafeteria.dll
+C:\Users\AshikhaMylsamy\source\repos\Cafeteria\Cafeteria\bin\Debug\net5.0\ref\Cafeteria.dll
+C:\Users\AshikhaMylsamy\source\repos\Cafeteria\Cafeteria\bin\Debug\net5.0\Cafeteria.pdb
+C:\Users\AshikhaMylsamy\source\repos\Cafeteria\Cafeteria\obj\Debug\net5.0\Cafeteria.csproj.AssemblyReference.cache
+C:\Users\AshikhaMylsamy\source\repos\Cafeteria\Cafeteria\obj\Debug\net5.0\Cafeteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshikhaMylsamy\source\repos\Cafeteria\Cafeteria\obj\Debug\net5.0\Cafeteria.AssemblyInfoInputs.cache
+C:\Users\AshikhaMylsamy\source\repos\Cafeteria\Cafeteria\obj\Debug\net5.0\Cafeteria.AssemblyInfo.cs
+C:\Users\AshikhaMylsamy\source\repos\Cafeteria\Cafeteria\obj\Debug\net5.0\Cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\AshikhaMylsamy\source\repos\Cafeteria\Cafeteria\obj\Debug\net5.0\Cafeteria.dll
+C:\Users\AshikhaMylsamy\source\repos\Cafeteria\Cafeteria\obj\Debug\net5.0\ref\Cafeteria.dll
+C:\Users\AshikhaMylsamy\source\repos\Cafeteria\Cafeteria\obj\Debug\net5.0\Cafeteria.pdb
+C:\Users\AshikhaMylsamy\source\repos\Cafeteria\Cafeteria\obj\Debug\net5.0\Cafeteria.genruntimeconfig.cache
